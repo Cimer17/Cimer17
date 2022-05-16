@@ -8,19 +8,10 @@
 
 
 ## Github Stats
-<table><tr><td valign="top" width="33%">
 
-<div align="center">  
 ![github stats](https://github-readme-stats.vercel.app/api?username=Cimer17&show_icons=true&theme=radical)
-</div>
-
-</td><td valign="top" width="33%">
-
-<div align="center"> 
 ![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=Cimer17&show_icons=true&theme=radical)  
-</div>
 
-</td></tr></table> 
 
 
 ## My Skill Set
