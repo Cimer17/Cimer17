@@ -17,3 +17,11 @@
 <img style="margin: 10px" src="https://github.com/Cimer17/Cimer17/blob/main/src/css.svg" alt="css" height="50" />  
 <img style="margin: 10px" src="https://github.com/Cimer17/Cimer17/blob/main/src/mysqllogo.png" alt="mysql" height="50" />  
 </p>
+
+
+## About me
+👨‍💻 I'm currently working on a housing and communal services website project
+
+🧠 I'm currently learning golang
+
+💬 Ask me about python
