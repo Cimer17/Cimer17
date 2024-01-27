@@ -8,7 +8,7 @@
 
 
 ## My main Skill Set
-<p>
+<p align="center">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
 <img style="margin: 10px" src="https://github.com/Cimer17/Cimer17/blob/main/src/assertgo_512.png" alt="golang" height="50" />  
 <img style="margin: 10px" src="https://github.com/Cimer17/Cimer17/blob/main/src/1200px-HTML5_Badge.svg.png" alt="html" height="50" />  
