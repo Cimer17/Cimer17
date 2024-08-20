@@ -3,8 +3,8 @@
 
 ### <div align="center">I'm Ivan, I like to learn and experience new things 👨‍💻 Onward to the stars 🚀</div>  
 
-- 🔭 I’m currently working on mobile robot
-- 🌱 I’m currently learning in KGTA
+- A backend developer, I like to explore new technologies and constantly develop myself.
+- I work as an information technology engineer, develop and implement innovative solutions at the enterprise.
 
 
 ## My main Skill Set
@@ -17,11 +17,3 @@
 <img style="margin: 10px" src="https://github.com/Cimer17/Cimer17/blob/main/src/css.svg" alt="css" height="50" />  
 <img style="margin: 10px" src="https://github.com/Cimer17/Cimer17/blob/main/src/mysqllogo.png" alt="mysql" height="50" />  
 </p>
-
-
-## About me
-👨‍💻 I'm currently working on a housing and communal services website project
-
-🧠 I'm currently learning golang
-
-💬 Ask me about python
