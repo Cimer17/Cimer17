@@ -17,3 +17,20 @@
 <img style="margin: 10px" src="https://github.com/Cimer17/Cimer17/blob/main/src/css.svg" alt="css" height="50" />  
 <img style="margin: 10px" src="https://github.com/Cimer17/Cimer17/blob/main/src/mysqllogo.png" alt="mysql" height="50" />  
 </p>
+
+
+## My stats
+<table align="center" cellspacing="20">
+  <tr>
+    <td>
+      <a href="https://git.io/streak-stats" target="_blank" rel="noopener noreferrer">
+        <img src="https://github-readme-streak-stats-eight.vercel.app?user=Cimer17&theme=dark-minimalist&border_radius=4.4" alt="GitHub Streak">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener noreferrer">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cimer17&layout=compact&theme=dracula&cache_seconds=0" alt="Top Languages">
+      </a>
+    </td>
+  </tr>
+</table>
